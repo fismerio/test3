@@ -21,7 +21,7 @@ Conversion notes:
 ----->
 
 
-This is a away to **create ** complex documents with a large number of people collaborating,
+This is a away to *create * complex documents with a large number of people collaborating,
 
 
 <table>
